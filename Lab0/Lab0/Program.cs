@@ -10,7 +10,8 @@ namespace Lab0
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Git!");
+            Console.WriteLine("Hello Git!"); //вывод в консоль "Hello Git!"
+            Console.WriteLine("Nice to meet you"); //вывод в консоль "Nice to meet you"
         }
     }
 }
